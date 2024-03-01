@@ -1,0 +1,30 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for playing music from YouTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "ytdl-core": "^5.2.1",
+    "yt-search": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MEEEPZ/discord-music-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music",
+    "youtube"
+  ],
+  "author": "XIAOCIA",
+  "license": "MIT",
+  "private": false
+}
